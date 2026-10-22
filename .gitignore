@@ -1,0 +1,7 @@
+pw_profile/
+recaptcha_action.json
+emails.json
+linkedin_urls.txt
+venv/
+__pycache__/
+.idea/
